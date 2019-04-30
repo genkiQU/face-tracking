@@ -21,8 +21,8 @@ import copy
 
 def face_detection(img):
     # setting API key
-    API_KEY = 'Zmq6MsCkmguVU8RNUwEo3Jrb0HAZ1yag'
-    API_SECRET = 'WYoJC3DEz4tavldk7a1zU-sl6OnZQmPI'
+    API_KEY = ''
+    API_SECRET = ''
     
     # set image file and save file
     cv2.imwrite("detect_temp.jpg",img)
