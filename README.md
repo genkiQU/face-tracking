@@ -1,6 +1,11 @@
 # face-tracking
 Face tracking program using registration.
 
+## bag2imgs folder
+bag2imgs.py can convert .bag to RGB and depth images.
+
+## face tracking folder
+
 # Dependencies
 ## bag2imgs
 ・rosbag
