@@ -3,7 +3,9 @@ Face tracking program using registration.
 
 # Dependencies
 ## bag2imgs
+・rosbag
 
+・opencv-python v4.0
 
 
 
