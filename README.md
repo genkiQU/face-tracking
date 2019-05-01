@@ -8,6 +8,7 @@ bag2imgs.py can convert .bag to RGB and depth images.
 facetrack.py can tracking face area.
 
 when facetrack.py is run, you need face++(https://www.faceplusplus.com/) account.
+
 cpp relations is under.
 
 ・align.cpp -> alignDepth.exe
